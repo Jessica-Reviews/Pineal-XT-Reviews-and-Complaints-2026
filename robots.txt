@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jessica-reviews.github.io/Pineal-XT-Reviews-and-Complaints-2026/sitemap.xml
